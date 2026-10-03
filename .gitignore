@@ -1,0 +1,22 @@
+# Python build artifacts
+__pycache__/
+*.py[cod]
+
+# Local application data and user activity
+data/
+logs/
+debug_html/
+predictions.json
+settings.json
+
+# Generated imports, exports, and temporary work
+excel/*.xlsx
+updates/
+backup-*
+iddiatest/
+_nul
+
+# Local environment files
+.env
+.venv/
+venv/

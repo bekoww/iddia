@@ -1,0 +1,6 @@
+beautifulsoup4
+cloudscraper
+customtkinter
+openpyxl
+pandas
+tqdm

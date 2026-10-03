@@ -1,0 +1,20 @@
+{
+  "tahmin_ayarlari": {
+    "tolerans": 10.0,
+    "min_eslesme": 1
+  },
+  "kupon_risk": "Ozel",
+  "veri_kapsami": "Sadece 2026",
+  "eslesme_kapsami": "Genel",
+  "kupon_tutar": "80.0",
+  "bugun_siralama": "Saat",
+  "kupon_ayarlari": {
+    "min_guven": 50.0,
+    "maks_secim": 3,
+    "zaman_araligi": 90,
+    "kaynak": "Sadece İncele",
+    "lig_cesitliligi": false,
+    "grup": "Tümü"
+  },
+  "bugun_lig_filtresi": "UEFA Uluslar Ligi"
+}
